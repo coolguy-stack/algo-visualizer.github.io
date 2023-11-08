@@ -1,0 +1,24 @@
+#container{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bar{
+    width: 10px;
+    background-color: white;
+    margin: 1px;
+}
+
+.btn {
+    background: black;
+    color: white;
+    border: 2px solid white;
+  }
